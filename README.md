@@ -1,3 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=gafonsoGIT&show_icons=true&theme=tokyonight&show_icons=true&title_color=04d17c&text_color=05ff97&bg_color=000000" width="100%"/>
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gafonsoGIT&layout=compact&theme=tokyonight&title_color=04d17c&text_color=05ff97&bg_color=000000&hide_border=true">-->
-
+<div align="center">
+  <a href="https://github.com/gafonsoGIT">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gafonsoGIT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gafonsoGIT&layout=compact&langs_count=7&theme=dracula"/>
+</div>
