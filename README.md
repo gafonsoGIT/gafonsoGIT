@@ -1,4 +1,7 @@
+## 📊 GitHub Stats
 
- ![Gonçalo Afonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=gafonsoGIT&show_icons=true&theme=draculatitle_color=04d17c&text_color=05ff97&bg_color=000000)
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gafonsoGIT&layout=compact&theme=draculatitle_color=04d17c&text_color=05ff97&bg_color=000000)](https://github.com/juliogoncalves147/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gafonsoGIT&show_icons=true&theme=tokyonight)
+
+## 🧠 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gafonsoGIT&layout=compact&theme=tokyonight)
